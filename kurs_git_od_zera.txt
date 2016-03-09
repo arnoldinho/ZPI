@@ -1,0 +1,1 @@
+po pierwszej lekcji umiem git commit
